@@ -25,7 +25,7 @@
     "symfony/framework-bundle": "*",
     "symfony/mailer": "*",
     "symfony/messenger": "*",
-    "symfony/monolog-bundle": "*",
+    "symfony/monolog-bundle": "^3.8",
     "symfony/notifier": "*",
     "symfony/runtime": "*",
     "symfony/security-bundle": "*",
