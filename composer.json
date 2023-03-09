@@ -32,7 +32,7 @@
     "symfony/twig-bundle": "*",
     "symfony/uid": "*",
     "symfony/validator": "*",
-    "symfony/webpack-encore-bundle": "*",
+    "symfony/webpack-encore-bundle": "^1.16",
     "symfony/yaml": "*",
     "symfonycasts/reset-password-bundle": "*",
     "twig/extra-bundle": "^2.12|^3.0",
