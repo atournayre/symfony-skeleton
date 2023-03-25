@@ -97,8 +97,12 @@
   },
   "extra": {
     "symfony": {
-      "allow-contrib": false,
-      "require": "6.2.*"
+      "allow-contrib": true,
+      "require": "6.2.*",
+      "endpoint": [
+        "https://api.github.com/repos/atournayre/symfony-flex-recipes/contents/index.json",
+        "flex://defaults"
+      ]
     }
   }
 }
