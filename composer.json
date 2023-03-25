@@ -13,6 +13,7 @@
   },
   "flex-require": {
     "api-platform/core": "^3",
+    "atournayre/assert": "^0",
     "doctrine/doctrine-bundle": "^2.8",
     "doctrine/doctrine-migrations-bundle": "^3.2",
     "doctrine/orm": "^2.14",
@@ -36,8 +37,7 @@
     "symfony/yaml": "*",
     "symfonycasts/reset-password-bundle": "^1.17",
     "twig/extra-bundle": "^2.12|^3.0",
-    "twig/twig": "^2.12|^3.0",
-    "webmozart/assert": "^1"
+    "twig/twig": "^2.12|^3.0"
   },
   "flex-require-dev": {
     "hautelook/alice-bundle": "^2.11",
@@ -97,8 +97,12 @@
   },
   "extra": {
     "symfony": {
-      "allow-contrib": false,
-      "require": "6.2.*"
+      "allow-contrib": true,
+      "require": "6.2.*",
+      "endpoint": [
+        "https://api.github.com/repos/atournayre/symfony-flex-recipes/contents/index.json",
+        "flex://defaults"
+      ]
     }
   }
 }

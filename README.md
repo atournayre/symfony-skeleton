@@ -53,7 +53,7 @@ A minimal Symfony project recommended to create rich applications.
 * Yaml
 
 ### Others
-* Assertions
+* Atournayre Assertions
 * Date manipulation with Carbon
 * PDF
 
