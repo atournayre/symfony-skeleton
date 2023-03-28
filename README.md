@@ -5,6 +5,7 @@ A minimal Symfony project recommended to create rich applications.
 ## Features
 ### API
 * API Platform 3
+* CORS
 
 ### Backoffice
 * EasyAdmin 4.6+
@@ -14,6 +15,7 @@ A minimal Symfony project recommended to create rich applications.
 * Doctrine Fixtures
 * Doctrine Migrations
 * Doctrine ORM
+* Doctrine Extensions
 
 ### Symfony
 * Asset
