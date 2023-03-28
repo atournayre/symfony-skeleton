@@ -22,6 +22,7 @@
     "knplabs/knp-snappy-bundle": "^1.9",
     "nelmio/cors-bundle": "^2.3",
     "nesbot/carbon": "^2.66",
+    "stof/doctrine-extensions-bundle": "^1.7",
     "symfony/console": "*",
     "symfony/dotenv": "*",
     "symfony/framework-bundle": "*",
