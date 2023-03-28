@@ -20,6 +20,7 @@
     "easycorp/easyadmin-bundle": "^4.6",
     "gedmo/doctrine-extensions": "^3.11",
     "knplabs/knp-snappy-bundle": "^1.9",
+    "nelmio/cors-bundle": "^2.3",
     "nesbot/carbon": "^2.66",
     "symfony/console": "*",
     "symfony/dotenv": "*",
